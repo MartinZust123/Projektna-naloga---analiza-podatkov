@@ -1,3 +1,5 @@
 # Projektna-naloga---analiza-podatkov
-V tej projektni nalogi bom analiziral podatke iz računalniške igre Deluxe Ski Jump 3. Igro lahko igrajo tudi simulirani igralci, ki jim določiš dve komponenti: spretnost in samozavest. Poskušal bom ugotoviti, kako spreminjanje teh dveh komponent vpliva na rezultat tekmovalca. Cilj projekta je čimbolj točno napovedovanje vrstnega reda tekmovalcev, če je znana vrednost njihovih dveh komponent.
-Na koncu vsake tekme lahko shraniš statistiko, ki ti generira txt file, v katerem so shranjeni potrebni podatki. 
+Analiziral bom oglase za stanovanja, ki se nahajajo na spletni strani Bolhe. Najprej bom naredil ločene tabele, za vsako regijo posebej. Naredil bom tudi tabelo vseh stanovanj skupaj. V tabelah bodo shranjeni naslednji podatki o stanovanjih: lokacija, regija, velikost, cena, vrsta stanovanja, datum objave. Iz teh podatkov bom potem tabelam dodal še ceno na kvadratni meter.
+Iz pridobljenega bom poskušal sklepati o pričakovani ceni glede na lokacijo, glede na starost oglasa in vrsto stanovanja. Ugotoviti bom poskušal, kaj od naštetega najbolj ključno vpliva na ceno. Za vse od naštetih analiz bom narisal tudi primerne grafe. 
+Iz zgornjih analiz bom poskušal določiti količnik vsakega stanovanja, ki se bo izračunal s pomočjo njegove lokacije, starosti in vrte. Potem bom vzel naključno stanovanje in poskušal določiti njegovo ceno s pomočjo tega količnika. 
+ 
