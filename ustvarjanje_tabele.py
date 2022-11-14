@@ -46,3 +46,7 @@ for ad in oglasi[10]:
     sez.append(ad_dict)
 
 print(sez)
+
+def seznam(sez):
+    sez.append(3)
+    return sez
