@@ -93,6 +93,7 @@ for i in range(len(oglasi)):
     ad_dict = parametri_poleg_cene(oglasi[i])
     sez[i].update(ad_dict)
 
+
 #################################################################
 #V naslednjem koraku bomo ustvarili csv datoteko. 
 #################################################################
