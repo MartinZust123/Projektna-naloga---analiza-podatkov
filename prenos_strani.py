@@ -12,7 +12,7 @@ seznam_url = []
 for n in range(1,20):
     seznam_url.append(f'https://www.bolha.com/oddaja-stanovanja?page={n}')
 
-stanovanja_imenik = "stanovanja"
+stanovanja_imenik = "stanovanja1"
 
 #Sedaj bom definiral dve pomožni funkciji, s katerima si bom potem pomagal pri prenosu podatkov iz spletne strani. 
 
