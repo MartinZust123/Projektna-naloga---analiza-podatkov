@@ -1,0 +1,442 @@
+price,location,size,date
+,"Postojna, Postojna",Unknown,14.11.2022
+680,"Ljubljana Šiška, Šiška",45,14.11.2022
+,"Maribor, Tabor",37,14.11.2022
+600,"Primorsko-goranska, Rijeka",60,14.11.2022
+700,"Ljubljana Bežigrad, Bežigrad",Unknown,13.11.2022
+,"Koper, Hrvatini",40,13.11.2022
+550,"Maribor, Center",63,13.11.2022
+,"Metlika, Metlika",160,13.11.2022
+500,"Maribor, Tezno",60,13.11.2022
+980,"Ljubljana Center, Stara Ljubljana",25,13.11.2022
+400,"Maribor, Borova vas",Unknown,13.11.2022
+750,"Ljubljana Šiška, Šiška",52,13.11.2022
+600,"Maribor, Magdalena",64,13.11.2022
+280,"Moravske Toplice, Moravske Toplice",50,13.11.2022
+0,"Ptuj, Ptuj",60,13.11.2022
+450,"Ljubljana Moste Polje, Moste",45,12.11.2022
+300,"Maribor, Tezno",27,12.11.2022
+700,"Kamnik, Kamnik",42,12.11.2022
+2.500,"Ljubljana Center, Center",135,12.11.2022
+180,"Hoče, Slivnica pri Mariboru",40,12.11.2022
+,"Kranjska Gora, Kranjska Gora",Unknown,12.11.2022
+420,"Celje, Center",33,12.11.2022
+550,"Izola, Izola",38,12.11.2022
+580,"Maribor, Za Kalvarijo",55,12.11.2022
+800,"Ljubljana Moste Polje, Polje",50,12.11.2022
+300,"Hoče, Rogoza",37,12.11.2022
+75.000,"Hrastnik, Hrastnik",80,12.11.2022
+600,"Primorsko-goranska, Rijeka",32,12.11.2022
+,"Hoče, Hočko Pohorje",75,11.11.2022
+240,"Ptuj, Ptuj",20,11.11.2022
+150,"Brežice, Brežice",25,11.11.2022
+0,"Lendava, Lendavske Gorice",70,11.11.2022
+,"Celje, Slavko Šlander",Unknown,11.11.2022
+750,"Maribor, Center",108,11.11.2022
+700,"Komenda, Klanec",75,11.11.2022
+800,"Ljubljana Šiška, Podutik",80,11.11.2022
+80,Avstrija,25,11.11.2022
+500,"Maribor, Borova vas",55,11.11.2022
+690,"Maribor, Center",71.5,11.11.2022
+750,"Domžale, Ihan",58,11.11.2022
+,"Gornja Radgona, Gornja Radgona",51,11.11.2022
+600,"Istrska, Pula",70,11.11.2022
+550,"Maribor, Pobrežje",50,11.11.2022
+650,"Primorsko-goranska, Rijeka",70,11.11.2022
+0,"Škofja Loka, Križna Gora",50,10.11.2022
+0,"Škofja Loka, Binkelj",Unknown,10.11.2022
+650,"Ljubljana Šiška, Zgornja Šiška",59,10.11.2022
+1.000,"Ljubljana Moste Polje, Zalog",130,10.11.2022
+450,"Videm pri Ptuju, Videm pri Ptuju",90,10.11.2022
+250,"Ljubljana Moste Polje, Moste",Unknown,10.11.2022
+,"Ljubljana, Poštni center",40,10.11.2022
+260,"Maribor, Center",16,10.11.2022
+550,"Maribor, Magdalena",64,10.11.2022
+390,"Slovenska Bistrica, Slovenska Bistrica",50,10.11.2022
+400,"Maribor, Tezno",48,10.11.2022
+,"Žalec, Ložnica pri Žalcu",Unknown,10.11.2022
+500,"Maribor, Magdalena",50,10.11.2022
+370,"Maribor, Center",34,10.11.2022
+320,"Maribor, Koroška vrata",26,10.11.2022
+520,"Maribor, Koroška vrata",40,10.11.2022
+850,"Izola, Izola",70,10.11.2022
+,"Zreče, Rogla",Unknown,10.11.2022
+0,"Ljubljana, Mestni Log",Unknown,10.11.2022
+650,"Maribor, Melje",91,10.11.2022
+370,"Primorsko-goranska, Lovran",56,10.11.2022
+400,"Celje, Slance",35,10.11.2022
+0,"Ljubljana, UKC",8,10.11.2022
+500,"Primorsko-goranska, Rijeka",62,10.11.2022
+600,"Maribor, Pobrežje",80,09.11.2022
+400,"Maribor, Nova Vas",45,09.11.2022
+500,"Ljubljana Center, Center",25,09.11.2022
+280,"Maribor, Pobrežje",26,09.11.2022
+0,"Slovenske Konjice, Loče",50,09.11.2022
+,"Maribor, Tezno",Unknown,09.11.2022
+45,"Trebnje, Trebnje",24,09.11.2022
+,"Celje, Dečkovo polje",24,09.11.2022
+320,"Celje, Celje",30,09.11.2022
+800,"Maribor, Center",84,09.11.2022
+750,"Nova Gorica, Nova Gorica",74,09.11.2022
+480,"Ivančna Gorica, Stranska vas ob Višnjici",56,09.11.2022
+,"Šentilj v Slovenskih goricah, Sladki Vrh",27,09.11.2022
+570,"Celje, Celje",75,09.11.2022
+,"Celje, Celje",28,09.11.2022
+500,"Maribor, Nova Vas",57,09.11.2022
+450,"Celje, Nova vas",35,09.11.2022
+,"Maribor, Tezno",25,09.11.2022
+400,"Maribor, Tezno",33,09.11.2022
+490,"Maribor, Center",45.5,09.11.2022
+370,"Krško, Trška Gora",47,09.11.2022
+,"Sevnica, Sevnica",64,08.11.2022
+,"Piran, Lucija",25,08.11.2022
+750,"Ljubljana Šiška, Dravlje",50,08.11.2022
+750,"Maribor, Center",110,08.11.2022
+,"Trebnje, Trebnje",100,08.11.2022
+,"Apače, Apače",Unknown,08.11.2022
+,"Murska Sobota, Murska Sobota",Unknown,08.11.2022
+1.000,"Zadarska, Zadar",168,08.11.2022
+990,"Maribor, Tabor",114,08.11.2022
+690,"Maribor, Tabor",70,08.11.2022
+850,"Žalec, Drešinja vas",123.7,08.11.2022
+350,"Jesenice, Jesenice",29,08.11.2022
+450,"Gorišnica, Gorišnica",65,08.11.2022
+0,"Celje, Dečkovo polje",57,08.11.2022
+360,"Maribor, Studenci",44.7,08.11.2022
+2.000,"Primorsko-goranska, Opatija - Okolica",63,08.11.2022
+500,"Ljubljana Vič Rudnik, Dolgi most",25,08.11.2022
+500,"Miklavž na Dravskem polju, Miklavž na Dravskem polju",Unknown,08.11.2022
+410,"Žalec, Žalec",Unknown,07.11.2022
+,"Žalec, Žalec",26,07.11.2022
+,"Šoštanj, Šoštanj",55,07.11.2022
+400,"Piran, Lucija",26,07.11.2022
+,"Kranjska Gora, Gozd Martuljek",40,07.11.2022
+624,Avstrija,79,07.11.2022
+250,"Ormož, Hum pri Ormožu",35,07.11.2022
+260,"Ptuj, Ptuj",20,07.11.2022
+400,"Piran, Lucija",32,07.11.2022
+0,"Ljubljana Bežigrad, Bežigrad",36,07.11.2022
+750,"Ljubljana Center, Trnovo",41,07.11.2022
+490,"Maribor, Center",43,07.11.2022
+600,"Novo mesto, Novo mesto",87,07.11.2022
+65.000,"Celje, Center",60,07.11.2022
+350,"Maribor, Center",22,06.11.2022
+300,"Maribor, Center",12,06.11.2022
+450,"Ptuj, Ptuj",65,06.11.2022
+10,"Kidričevo, Spodnji Gaj pri Pragerskem",Unknown,06.11.2022
+870,"Piran, Piran",50,06.11.2022
+600,"Celje, Nova vas",60,06.11.2022
+0,"Laško, Spodnja Rečica",40,06.11.2022
+350,"Šmarje pri Jelšah, Šmarje pri Jelšah",60,05.11.2022
+350,"Maribor, Magdalena",22,05.11.2022
+350,"Ljutomer, Grlava",75,05.11.2022
+370,"Maribor, Pobrežje",27,05.11.2022
+700,"Ljubljana Moste Polje, Moste",74,05.11.2022
+0,"Ljutomer, Cezanjevci",Unknown,05.11.2022
+50,"Kranj, Kranj",65,05.11.2022
+650,"Ljubljana Bežigrad, Bežigrad",40,05.11.2022
+,"Logatec, Grčarevec",80,05.11.2022
+1.850,"Primorsko-goranska, Kostrena",140,05.11.2022
+,Italija,65,04.11.2022
+,"Ljubljana Bežigrad, Bežigrad",36,04.11.2022
+440,"Ljubljana Vič Rudnik, Rakova jelša",22,04.11.2022
+360,"Kranj, Kranj",60,04.11.2022
+150,"Hajdina, Slovenja vas",Unknown,04.11.2022
+150,"Hajdina, Slovenja vas",Unknown,04.11.2022
+0,"Maribor, Melje",45,04.11.2022
+400,"Maribor, Magdalena",40.7,04.11.2022
+400,"Maribor, Center",50,04.11.2022
+600,"Maribor, Studenci",47,04.11.2022
+550,"Murska Sobota, Murska Sobota",75,04.11.2022
+500,"Maribor, Borova vas",60,03.11.2022
+,"Šmartno ob Paki, Šmartno ob Paki",Unknown,03.11.2022
+500,"Ljubljana, WTC",Unknown,03.11.2022
+700,"Ljubljana Bežigrad, Zupančičeva jama",64,03.11.2022
+,"Ljubljana Vič Rudnik, Brdo",38,03.11.2022
+330,"Lovrenc na Pohorju, Lovrenc na Pohorju",55,03.11.2022
+290,"Maribor, Center",18,03.11.2022
+,"Prebold, Prebold",35,03.11.2022
+400,"Vitanje, Vitanje",63.3,03.11.2022
+650,Hrvaška,Unknown,03.11.2022
+,"Celje, Celje",20,03.11.2022
+600,"Ljubljana Moste Polje, Štepanjsko naselje",45,03.11.2022
+650,"Maribor, Magdalena",64,03.11.2022
+550,"Ljubljana Bežigrad, Črnuče",45,03.11.2022
+,"Ljubljana Šiška, Zgornje Gameljne",25,03.11.2022
+550,"Ljubljana Moste Polje, BTC",55,03.11.2022
+500,"Maribor, Center",60.9,02.11.2022
+,"Nova Gorica, Nova Gorica",Unknown,02.11.2022
+,"Ptuj, Ptuj",18,02.11.2022
+260,"Ruše, Ruše",30.3,02.11.2022
+440,"Slovenska Bistrica, Slovenska Bistrica",51.4,02.11.2022
+460,"Maribor, Za Kalvarijo",27.5,02.11.2022
+800,"Ljubljana Šiška, Šentvid",37.32,02.11.2022
+,"Dobrna, Dobrna",70,02.11.2022
+400,"Maribor, Tabor",50,02.11.2022
+700,"Bled, Bled",54,02.11.2022
+400,"Maribor, Magdalena",50,02.11.2022
+260,"Maribor, Kamnica",20,02.11.2022
+550,"Maribor, Tabor",63.4,02.11.2022
+600,"Ljubljana Moste Polje, Zgornji Kašelj",40,02.11.2022
+380,"Ptuj, Ptuj",45,02.11.2022
+450,"Maribor, Pobrežje",40,02.11.2022
+538,"Ljubljana Bežigrad, Tomačevo",44,02.11.2022
+,"Markovci, Stojnci",80,02.11.2022
+300,"Celje, Gaberje",30,01.11.2022
+300,"Maribor, Pobrežje",38,01.11.2022
+400,"Maribor, Magdalena",30,01.11.2022
+0,"Koper, Koper",80,01.11.2022
+,"Piran, Portorož",25,01.11.2022
+450,"Brežice, Brežice",Unknown,01.11.2022
+350,"Maribor, Tabor",Unknown,01.11.2022
+480,"Celje, Slavko Šlander",61.2,01.11.2022
+450,"Lenart v Slovenskih goricah, Lenart v Slovenskih goricah",64,01.11.2022
+,"Ljubljana Center, Center",75,01.11.2022
+530,"Maribor, Košaki",76,01.11.2022
+,"Rogaška Slatina, Rogaška Slatina",28,31.10.2022
+600,"Maribor, Tezno",55.6,31.10.2022
+170,"Ljubljana Moste Polje, Štepanjsko naselje",24,31.10.2022
+150,"Brežice, Cerklje ob Krki",15,31.10.2022
+600,"Slovenska Bistrica, Slovenska Bistrica",86,31.10.2022
+,"Ljubljana, Poštni center",40,31.10.2022
+500,"Vrhnika, Vrhnika",57,31.10.2022
+,"Gorišnica, Gorišnica",100,31.10.2022
+470,"Celje, Center",40,30.10.2022
+500,"Pivka, Petelinje",100,30.10.2022
+800,"Primorsko-goranska, Rijeka",62,30.10.2022
+130,"Črnomelj, Črnomelj",120,30.10.2022
+600,"Ljubljana Bežigrad, BS 3",48,30.10.2022
+,"Ormož, Ormož",33,30.10.2022
+0,"Laško, Spodnja Rečica",Unknown,30.10.2022
+480,"Jesenice, Koroška Bela",55,30.10.2022
+380,"Jesenice, Koroška Bela",38,30.10.2022
+650,"Kamnik, Kamnik",82,29.10.2022
+380,Italija,30,29.10.2022
+,"Maribor, Pobrežje",68,29.10.2022
+,"Celje, Nova vas",30,29.10.2022
+1.100,"Ljubljana Moste Polje, Kodeljevo",120,29.10.2022
+650,"Ivančna Gorica, Ivančna Gorica",110,29.10.2022
+,"Rogaška Slatina, Tržišče",35,29.10.2022
+0,"Maribor, Koroška vrata",15,29.10.2022
+490,"Maribor, Center",59,29.10.2022
+490,"Maribor, Center",59,29.10.2022
+0,"Kranj, Babni Vrt",Unknown,29.10.2022
+390,Hrvaška,67,28.10.2022
+390,"Kranj, Britof",25,28.10.2022
+,"Zagorje ob Savi, Zagorje ob Savi",59,28.10.2022
+,"Bovec, Čezsoča",42,28.10.2022
+450,"Grosuplje, Veliko Mlačevo",25,28.10.2022
+200,"Maribor, Magdalena",Unknown,28.10.2022
+0,"Ljubljana Šiška, Brod",55,28.10.2022
+,"Žalec, Ložnica pri Žalcu",Unknown,27.10.2022
+,"Ptuj, Ptuj",43,27.10.2022
+500,"Piran, Parecag",45,27.10.2022
+0,"Murska Sobota, Murska Sobota",40,27.10.2022
+500,"Ptuj, Ptuj",65,27.10.2022
+500,"Maribor, Kamnica",40,27.10.2022
+,"Bled, Bled",38,27.10.2022
+500,"Brežice, Dobova",55,27.10.2022
+0,"Vransko, Vransko",35,27.10.2022
+400,"Istrska, Umag",30,26.10.2022
+,"Kranjska Gora, Rateče-Planica",35,26.10.2022
+600,"Maribor, Pobrežje",97,26.10.2022
+2.900,"Ljubljana Moste Polje, Zelena jama",234.3,26.10.2022
+,"Turnišče, Gomilica",60,26.10.2022
+,"Lendava, Gaberje",35,26.10.2022
+300,"Rogatec, Žahenberc",62,26.10.2022
+0,"Sevnica, Sevnica",130,26.10.2022
+300,"Turnišče, Gomilica",60,26.10.2022
+400,"Vrhnika, Verd",55,26.10.2022
+500,"Maribor, Center",50,25.10.2022
+5,"Hrastnik, Hrastnik",Unknown,25.10.2022
+900,"Bled, Bled",56,25.10.2022
+,"Radovljica, Radovljica",60,25.10.2022
+350,"Brežice, Brežice",Unknown,25.10.2022
+550,"Brežice, Brežice",33,25.10.2022
+470,"Ptuj, Ptuj",70,25.10.2022
+0,"Ljubljana, Mestni Log",20,25.10.2022
+1.000,"Maribor, Center",122.9,25.10.2022
+430,"Maribor, Center",46,25.10.2022
+400,"Ptuj, Ptuj",45,25.10.2022
+400,"Ptuj, Ptuj",34.7,25.10.2022
+1.100,"Kamnik, Košiše",120,25.10.2022
+30,"Celje, Center",35,25.10.2022
+540,"Hoče, Rogoza",54,25.10.2022
+600,"Primorsko-goranska, Rijeka",52,25.10.2022
+1.250,"Ljubljana Center, Center",Unknown,25.10.2022
+850,"Koper, Koper",Unknown,25.10.2022
+300,"Ljubljana Šiška, Koseze",28,24.10.2022
+450,"Kranjska Gora, Kranjska Gora",34,24.10.2022
+250,"Ljubljana Bežigrad, Zupančičeva jama",43,24.10.2022
+,Avstrija,50,24.10.2022
+760,"Maribor, Magdalena",90,24.10.2022
+800,"Koper, Koper",70,24.10.2022
+0,"Ljubljana, Topniška",Unknown,24.10.2022
+400,"Maribor, Limbuš",15,24.10.2022
+30.000,"Hrastnik, Hrastnik",80,24.10.2022
+600,"Piran, Parecag",40,24.10.2022
+650,"Medvode, Medvode",83,23.10.2022
+0,"Maribor, Tabor",30,23.10.2022
+400,"Brežice, Dobova",28,23.10.2022
+,"Ljubljana Moste Polje, Nove Jarše",58,23.10.2022
+,"Ljubljana, WTC",Unknown,23.10.2022
+420,"Gornja Radgona, Gornja Radgona",70,23.10.2022
+0,"Izola, Jagodje",Unknown,23.10.2022
+,"Murska Sobota, Murska Sobota",Unknown,23.10.2022
+,"Šentjur, Dole",60,23.10.2022
+,"Šempeter pri Gorici, Šempeter pri Gorici",16,23.10.2022
+,"Nova Gorica, Čepovan",16,23.10.2022
+450,"Ptuj, Ptuj",73,23.10.2022
+600,"Primorsko-goranska, Rijeka",63,23.10.2022
+550,"Primorsko-goranska, Lovran",60,23.10.2022
+,"Ljubljana, UKC",13,22.10.2022
+,"Maribor, Magdalena",1,22.10.2022
+920,"Piran, Piran",46,22.10.2022
+480,"Trzin, Trzin",33,22.10.2022
+,"Maribor, Studenci",1,22.10.2022
+800,"Ljubljana Center, Center",60,21.10.2022
+,"Slovenske Konjice, Kraberk",60,21.10.2022
+300,"Šmartno pri Litiji, Gozd-reka",55,21.10.2022
+550,"Vrhnika, Mala Ligojna",63,21.10.2022
+400,"Maribor, Tezno",33,21.10.2022
+600,"Ljubljana Šiška, Koseze",55,21.10.2022
+850,"Preddvor, Bašelj",150,21.10.2022
+1.200,"Maribor, Košaki",Unknown,21.10.2022
+240,"Šentjur, Šentjur",15,21.10.2022
+600,"Primorsko-goranska, Lovran",60,21.10.2022
+350,"Primorsko-goranska, Rijeka",27,21.10.2022
+750,"Ljubljana Bežigrad, BS 3",57,20.10.2022
+300,"Koper, Rižana",20,20.10.2022
+300,"Kamnik, Kamnik",20,20.10.2022
+600,"Celje, Kajuh",71,20.10.2022
+390,"Maribor, Center",Unknown,20.10.2022
+600,"Piran, Seča",25,20.10.2022
+,"Kidričevo, Kungota pri Ptuju",42,20.10.2022
+10,"Kidričevo, Kungota pri Ptuju",45,20.10.2022
+350,"Maribor, Magdalena",60,19.10.2022
+1.500,"Ljubljana Center, Center",108.9,19.10.2022
+760,"Maribor, Center",90,19.10.2022
+,"Ljubljana Moste Polje, Vodmat",Unknown,19.10.2022
+550,"Ljubljana Center, Center",42.2,19.10.2022
+380,"Maribor, Pobrežje",37,18.10.2022
+,"Ljubljana Bežigrad, Brinje",33.4,18.10.2022
+300,"Maribor, Magdalena",34,18.10.2022
+,"Grosuplje, Grosuplje",Unknown,18.10.2022
+0,"Tolmin, Volarje",100,18.10.2022
+1.700,"Ljubljana Bežigrad, Bežigrad",98.1,18.10.2022
+1.100,"Primorsko-goranska, Opatija - Okolica",70,18.10.2022
+490,Hrvaška,37,18.10.2022
+350,"Kidričevo, Kidričevo",42,18.10.2022
+500,"Celje, Slavko Šlander",40,18.10.2022
+,"Ljubljana Šiška, Podutik",Unknown,18.10.2022
+600,"Primorsko-goranska, Rijeka",45,18.10.2022
+330,"Lendava, Lendava",66.7,17.10.2022
+400,"Litija, Litija",43,17.10.2022
+550,"Maribor, Tabor",58,17.10.2022
+300,"Ljubljana Moste Polje, Fužine",Unknown,17.10.2022
+0,"Maribor okolica, Zrkovci",Unknown,17.10.2022
+180,"Juršinci, Rotman",Unknown,17.10.2022
+250,"Juršinci, Rotman",Unknown,17.10.2022
+650,"Primorsko-goranska, Rijeka",100,17.10.2022
+,"Ljubljana Center, Center",120,16.10.2022
+380,"Zreče, Zreče",38,16.10.2022
+0,"Maribor, Center",Unknown,16.10.2022
+500,"Bled, Zasip",60,16.10.2022
+760,"Maribor, Magdalena",90,16.10.2022
+,"Radovljica, Hlebce",Unknown,16.10.2022
+,"Primorsko-goranska, Krk",32,16.10.2022
+850,"Ljubljana Šiška, Zgornja Šiška",72,16.10.2022
+,"Kuzma, Kuzma",45,16.10.2022
+1.000,"Izola, Jagodje",80,16.10.2022
+450,"Brežice, Dobova",28,16.10.2022
+,"Lenart v Slovenskih goricah, Lenart v Slovenskih goricah",Unknown,16.10.2022
+150,"Hajdina, Slovenja vas",80,15.10.2022
+150,"Hajdina, Slovenja vas",45,15.10.2022
+300,"Turnišče, Gomilica",60,15.10.2022
+300,"Turnišče, Gomilica",60,15.10.2022
+400,"Piran, Lucija",30,15.10.2022
+,"Šempeter pri Gorici, Šempeter pri Gorici",25,15.10.2022
+2.500,"Ljubljana Center, Center",134.2,14.10.2022
+1.000,"Primorsko-goranska, Rijeka",94,12.10.2022
+500,"Primorsko-goranska, Opatija - Okolica",60,11.10.2022
+590,"Maribor, Center",Unknown,08.10.2022
+900,"Ljubljana Bežigrad, Bežigrad",69,07.10.2022
+500,"Primorsko-goranska, Rijeka",80,06.10.2022
+550,"Maribor, Center",91.4,05.10.2022
+320,"Hajdina, Hajdina",30,04.10.2022
+1.750,"Ljubljana Vič Rudnik, Vič - Dolgi most",Unknown,04.10.2022
+400,"Primorsko-goranska, Rijeka",50,03.10.2022
+500,"Primorsko-goranska, Malinska-dubašnica",38,03.10.2022
+800,"Primorsko-goranska, Opatija - Okolica",63,28.09.2022
+750,"Primorsko-goranska, Rijeka",88,28.09.2022
+2.800,"Ljubljana Center, Stara Ljubljana",Unknown,28.09.2022
+,"Radovljica, Radovljica",Unknown,27.09.2022
+300,"Ljutomer, Ljutomer",43.5,26.09.2022
+330,"Ljutomer, Ljutomer",51.5,26.09.2022
+1.200,"Primorsko-goranska, Rijeka",80,26.09.2022
+1.100,"Ljubljana Šiška, Dravlje",76.9,23.09.2022
+1.250,"Primorsko-goranska, Opatija",115,23.09.2022
+1.000,"Primorsko-goranska, Rijeka",90,23.09.2022
+1.000,"Primorsko-goranska, Rijeka",90,22.09.2022
+1.000,"Primorsko-goranska, Kostrena",70,22.09.2022
+1.200,"Primorsko-goranska, Viškovo",80,22.09.2022
+800,"Primorsko-goranska, Bakar",70,22.09.2022
+1.500,"Primorsko-goranska, Kostrena",62,22.09.2022
+1.200,"Primorsko-goranska, Rijeka",96,22.09.2022
+1.000,"Primorsko-goranska, Rijeka",136,22.09.2022
+1.300,"Primorsko-goranska, Opatija",106,22.09.2022
+600,"Primorsko-goranska, Rijeka",62,22.09.2022
+600,"Ljutomer, Ljutomer",84.2,22.09.2022
+750,"Ljubljana Moste Polje, Nove Jarše",73,16.09.2022
+680,"Maribor, Betnava",71.5,15.09.2022
+1.200,"Primorsko-goranska, Rijeka",88.53,15.09.2022
+600,"Ljubljana Vič Rudnik, Vič - Dolgi most",43,13.09.2022
+1.450,"Ljubljana Center, Center",50,12.09.2022
+1.700,"Ljubljana Center, Center",117,12.09.2022
+2.250,"Ljubljana Center, Center",Unknown,12.09.2022
+2.100,"Ljubljana Center, Center",110,12.09.2022
+1.000,"Ljubljana Center, Center",75.9,12.09.2022
+950,"Ljubljana Center, Center",49,12.09.2022
+500,"Ljubljana Moste Polje, Novo Polje",28,08.09.2022
+500,"Ljubljana Moste Polje, Novo Polje",25,08.09.2022
+1.200,"Koper, Koper",Unknown,07.09.2022
+995,"Maribor, Center",130,05.09.2022
+1.050,"Maribor, Studenci",Unknown,03.09.2022
+1.700,"Ljubljana Vič Rudnik, Vič - Dolgi most",Unknown,02.09.2022
+1.650,"Ljubljana Vič Rudnik, Vič - Dolgi most",Unknown,01.09.2022
+1.000,"Primorsko-goranska, Matulji",80,31.08.2022
+650,"Nova Gorica, Nova Gorica",73.9,29.08.2022
+490,"Bovec, Bovec",48,29.08.2022
+850,"Maribor, Center",Unknown,26.08.2022
+1.100,"Piran, Lucija",60,20.08.2022
+700,"Ljutomer, Ljutomer",88,18.08.2022
+950,"Bled, Bohinjska Bela",Unknown,30.07.2022
+1.300,"Primorsko-goranska, Kastav",125,26.07.2022
+650,"Primorsko-goranska, Mali Lošinj",70,19.07.2022
+600,"Primorsko-goranska, Rijeka",48,05.07.2022
+3.100,"Ljubljana Vič Rudnik, Vič - Dolgi most",140,28.06.2022
+650,"Maribor, Center",Unknown,03.06.2022
+400,"Maribor, Center",Unknown,26.05.2022
+750,"Maribor, Center",Unknown,25.05.2022
+1.150,"Maribor, Koroška vrata",Unknown,24.05.2022
+180,"Ptuj, Krčevina pri Vurbergu",25,11.05.2022
+400,"Primorsko-goranska, Lovran",20,26.04.2022
+800,"Prebold, Prebold",78,11.04.2022
+2.200,"Ljubljana Center, Center",127.1,11.04.2022
+500,"Bovec, Bovec",Unknown,30.03.2022
+0,"Maribor, Ostalo",50,08.03.2022
+0,"Laško, Spodnja Rečica",30,03.02.2022
+2.700,"Ljubljana Center, Center",151.4,01.02.2022
+100,"Primorsko-goranska, Opatija",138,13.10.2021
+0,"Maribor, Magdalena",Unknown,11.08.2021
+850,"Primorsko-goranska, Rijeka",80,08.08.2021
+,"Maribor, Tabor",58,04.01.2021
+0,"Maribor, Nova Vas",Unknown,27.10.2020
+,"Maribor, Center",1,27.10.2020
+0,"Maribor, Center",Unknown,07.10.2020
+0,"Maribor, Tezno",Unknown,07.10.2020
+0,"Maribor, Tabor",60,07.10.2020
+,"Maribor, Kamnica",40,30.05.2020
+160,"Laško, Laško",60,15.02.2020
+120,"Kočevje, Kočevje",300,30.08.2019
+350,"Rače, Rače",70,07.05.2019
